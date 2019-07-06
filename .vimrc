@@ -1,3 +1,5 @@
+" 全ユーザに適応させるために、/etc/vim/vimrc.localに配置
+" 変更を加えた、全ユーザに反映させるには、/etc以下のファイルを更新する必要がある
 syntax on
 colorscheme lucario
 " 行表示
